@@ -14,7 +14,7 @@ cd basicGraphQL
 yarn install
 yarn run start
 ```
-After above commands have been executed, go to localhost:4000 and play around different graphQL queries written in index.js in the graphQL play ground which appears.
+After above commands have been executed, go to `localhost:4000` and play around different graphQL queries written in index.js in the graphQL play ground which appears.
 
 Code contributions are always welcomed.
 

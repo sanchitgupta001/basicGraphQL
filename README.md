@@ -1,5 +1,5 @@
 # basicGraphQL
-This repo consists of code related to following GraphQL concepts:
+This repo consists of code related to following GraphQL concepts using [apollo-server](https://www.npmjs.com/package/apollo-server) library:
 1. Types
 2. Type checking
 3. Resolvers
